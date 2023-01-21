@@ -1,0 +1,22 @@
+<xml bla bla />
+<filiere>
+<nom>Filière GL année 2023</nom>
+<Etudiants>
+<etudiant>
+<name>Mohamed</name>
+<note>20</note>
+<statut>réussi</statut>
+</etudiant>
+<etudiant>
+<name>Youssef</name>
+<note>4</note>
+<statut>ajournée</statut>
+</etudiant>
+<etudiant>
+<name>ZinEddin</name>
+<note>2</note>
+<statut>ajournée</statut>
+</etudiant>
+
+</Etudiants>
+</filiere>
